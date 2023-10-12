@@ -1,0 +1,12 @@
+* {
+  font-family: sans-serif;
+}
+.container-fluid {
+  height: 100vh;
+}
+.my-custom-font {
+  font-size: 5rem;
+}
+.my-custom-letter {
+  letter-spacing: 0.2rem;
+}
